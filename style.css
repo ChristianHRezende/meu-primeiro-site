@@ -1,0 +1,16 @@
+.image {
+  height: 300px;
+  width: 300px;
+}
+
+.phone {
+  color: red;
+}
+
+.app {
+  display: flex;
+}
+
+.texts {
+  margin-left: 50px;
+}
